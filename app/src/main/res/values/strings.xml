@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BasketScoreTest</string>
+    <string name="textview1">Team A</string>
+    <string name="textview2">Team B</string>
+    <string name="button1">+1</string>
+    <string name="button2">+2</string>
+    <string name="button3">+3</string>
+    <string name="unDoButton">undo</string>
+    <string name="resetButton">reset</string>
+</resources>
